@@ -38,4 +38,5 @@ to not to use dictionary or hashmap.
 I think that is the only best way to parse an HTML file. However the second part i.e to check the pincode availability. I have used requests module
 to get pincode details by sending get request to url "http://www.shopclues.com/nss.php" which gives me a json format data which gives pincode availability details.
 
-Please review the code. Even if it is negetive reviews it doesn't matter.
+Please review the code. Even if it is a negetive review it doesn't matter. I would love to correct my mistake and learn new things.
+Thanks.
